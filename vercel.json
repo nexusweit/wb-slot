@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://bloomassettrade.com/?s=sKBjJYycY8&p",
+      "permanent": true
+    }
+  ]
+}
